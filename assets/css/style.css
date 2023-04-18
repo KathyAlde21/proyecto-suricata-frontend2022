@@ -1,0 +1,45 @@
+/*selector por etiqueta*/
+header{
+    text-align: center;
+  }
+
+  nav{
+    font-style: normal;
+    color: white;
+  }
+
+   /*selector por clase */
+  .contenedorTarjetasPadre{
+    text-align: center;
+  }
+  
+   .lasTarjetas{
+     display: inline-block;
+   }
+  
+  /*selector por id */
+  #losElementosNavbar{
+    text-align: right;
+  }
+  
+  #footerSuperior{
+    background-color: #17A2B8;
+  }
+  
+  #footerInferior{
+    background-color: #E83E8C;
+    text-align: center;
+  }
+  
+  #zuricataFooter{
+    width: 3%;
+    display: inline-block;
+  }
+  
+ #iconosPorfiados{
+    text-align: center;
+    display: inline-block;
+ }
+
+  /*selector i*/
+  
